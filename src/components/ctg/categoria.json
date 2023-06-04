@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_ctg_categorias",
+  "info": {
+    "displayName": "categoria",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "aprobado": {
+      "type": "boolean"
+    },
+    "tipoclase": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::clase.clase"
+    }
+  }
+}

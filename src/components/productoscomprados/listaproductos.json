@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_procomp_lscomp",
+  "info": {
+    "displayName": "listaproductos",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "cantidad": {
+      "type": "integer"
+    },
+    "preciofacturado": {
+      "type": "decimal"
+    },
+    "producto": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::producto.producto"
+    }
+  }
+}

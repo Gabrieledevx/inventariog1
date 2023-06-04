@@ -1,0 +1,34 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ventas",
+  "info": {
+    "singularName": "venta",
+    "pluralName": "ventas",
+    "displayName": "venta",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "idfactura": {
+      "type": "string"
+    },
+    "fechafactura": {
+      "type": "datetime"
+    },
+    "correocliente": {
+      "type": "email"
+    },
+    "numerocliente": {
+      "type": "string"
+    },
+    "productosfacturados": {
+      "displayName": "listaproductos",
+      "type": "component",
+      "repeatable": true,
+      "component": "productoscomprados.listaproductos"
+    }
+  }
+}
