@@ -1,10 +1,9 @@
-# 🚀 Getting started with Strapi
+# 🚀 TRABAJO GRUPAL INVENTARIO
 
-Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
+Este proyecto ha sido creado con la intención ed cumplir los parametros del modelo de calidad establecido
+### `Desarrollo`
 
-### `develop`
-
-Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-develop)
+Para iniciar este proyecto ejecute los siguientes comandos, esto se habilitara en modo desarrollador [Conozca más en](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-develop)
 
 ```
 npm run develop
@@ -14,7 +13,7 @@ yarn develop
 
 ### `start`
 
-Start your Strapi application with autoReload disabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-start)
+Para iniciar el proyecto en un ambiente local de producción [Conozca más en](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-start)
 
 ```
 npm run start
@@ -24,34 +23,34 @@ yarn start
 
 ### `build`
 
-Build your admin panel. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-build)
+Construye su panel administrativo del programa en cuestión [Conozca más en](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-build)
 
 ```
-npm run build
+npm run build 
 # or
 yarn build
 ```
 
 ## ⚙️ Deployment
 
-Strapi gives you many possible deployment options for your project. Find the one that suits you on the [deployment section of the documentation](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment.html).
+Este proyecto puede ser desplegado en varios entornos, para ello se debe de conocer más sobre la arquitectura y el entorno donde se desee implementar. [Documentación oficial de despliegue](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment.html).
 
-## 📚 Learn more
+## 📚 Conozca más en
 
-- [Resource center](https://strapi.io/resource-center) - Strapi resource center.
-- [Strapi documentation](https://docs.strapi.io) - Official Strapi documentation.
-- [Strapi tutorials](https://strapi.io/tutorials) - List of tutorials made by the core team and the community.
-- [Strapi blog](https://docs.strapi.io) - Official Strapi blog containing articles made by the Strapi team and the community.
-- [Changelog](https://strapi.io/changelog) - Find out about the Strapi product updates, new features and general improvements.
+- [Resource center](https://strapi.io/resource-center) - Recursos del HeadLess CMS Strapi.
+- [Strapi documentation](https://docs.strapi.io) - Documetnación oficial de Strapi
+- [Strapi tutorials](https://strapi.io/tutorials) - Lista de Tutoriales
+- [Strapi blog](https://docs.strapi.io) - Blog del Headless CMS
+- [Changelog](https://strapi.io/changelog) - Encontrar más novedades del Headless cms y nuevos desarrollos
 
-Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/strapi). Your feedback and contributions are welcome!
+Visitar el repositorio oficial de esta tecnología en [Strapi GitHub repository](https://github.com/strapi/strapi).
 
-## ✨ Community
+## ✨ Comunidad
 
-- [Discord](https://discord.strapi.io) - Come chat with the Strapi community including the core team.
-- [Forum](https://forum.strapi.io/) - Place to discuss, ask questions and find answers, show your Strapi project and get feedback or just talk with other Community members.
-- [Awesome Strapi](https://github.com/strapi/awesome-strapi) - A curated list of awesome things related to Strapi.
+- [Discord](https://discord.strapi.io) 
+- [Forum](https://forum.strapi.io/) 
+- [Awesome Strapi](https://github.com/strapi/awesome-strapi) 
 
 ---
 
-<sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+
