@@ -11,7 +11,7 @@ npm run develop
 yarn develop
 ```
 
-### `start`
+### `Producción Local`
 
 Para iniciar el proyecto en un ambiente local de producción [Conozca más en](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-start)
 
@@ -21,7 +21,7 @@ npm run start
 yarn start
 ```
 
-### `build`
+### `Construir el panel administrativo`
 
 Construye su panel administrativo del programa en cuestión [Conozca más en](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-build)
 
